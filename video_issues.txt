@@ -1,0 +1,4 @@
+2.2 - Basic Typography
+Monospace paragraph not in the code for the lesson
+   - assigning text-monospace class didn't work
+Text truncate div not in the code for the lesson
