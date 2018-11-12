@@ -2,3 +2,7 @@
 Monospace paragraph not in the code for the lesson
    - assigning text-monospace class didn't work
 Text truncate div not in the code for the lesson
+
+2.3 - Text Alignment Display
+Paragraph text for the justify example isn't as long as in the video
+Vertical alignment classes not initially in video but are in the HTML file
