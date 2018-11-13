@@ -12,3 +12,7 @@ Paragraphs missing for muted, Black 50 and White 50
 Link colors markup missing from html file
    - similar to the text markup from earlier in the video
 Background transparent missing from html file
+
+2.6 - Spacing
+Horizontal Centering missing from sandbox page
+Center align present on sandbox page but not on video
