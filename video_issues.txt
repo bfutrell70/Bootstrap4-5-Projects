@@ -6,3 +6,9 @@ Text truncate div not in the code for the lesson
 2.3 - Text Alignment Display
 Paragraph text for the justify example isn't as long as in the video
 Vertical alignment classes not initially in video but are in the HTML file
+
+2.5 - Colors & Background
+Paragraphs missing for muted, Black 50 and White 50
+Link colors markup missing from html file
+   - similar to the text markup from earlier in the video
+Background transparent missing from html file
