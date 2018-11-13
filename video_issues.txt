@@ -16,3 +16,12 @@ Background transparent missing from html file
 2.6 - Spacing
 Horizontal Centering missing from sandbox page
 Center align present on sandbox page but not on video
+
+2.7 - Sizing
+Width: auto missing from sandbox page but present on video
+   background color class missing from sandbox file
+Hight: Auto missing from sandbox page but present on video
+   background color, d-inline-block classes missing from sandbox file
+Borders markup missing from sandbox file
+Border colors in sandbox code are in spans versus divs on video
+Border Radious missing in sandbox file
