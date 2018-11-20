@@ -25,3 +25,6 @@ Hight: Auto missing from sandbox page but present on video
 Borders markup missing from sandbox file
 Border colors in sandbox code are in spans versus divs on video
 Border Radious missing in sandbox file
+
+3.11 - Jumbotron
+HTML file in the video is not in the souce code archive
