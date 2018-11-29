@@ -19,6 +19,9 @@ body {
   min-height: 700px;
 }
 
+/* The div with the dark-overlay class will fill its
+  parent. It darkens the image that is behind it so
+  the text is readable. */
 #home-section .dark-overlay {
   position: absolute;
   top: 0;
@@ -29,10 +32,12 @@ body {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
+/* move the text to under the navbar */
 #home-section .home-inner {
   padding-top: 150px;
 }
 
+/* make the form background slightly transparent */
 #home-section .card-form {
   opacity: 0.8;
 }
