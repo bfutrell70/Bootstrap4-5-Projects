@@ -45,7 +45,7 @@ body {
 /* this makes the checkboxes blue, the background white,
     sets padding to 5 pixels all the way around and
     rounds the corners */
-#home-section .fas {
+#home-section .fas, #create-section .fas {
   color: #008ed6;
   background: #fff;
   padding: 5px;
